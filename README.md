@@ -30,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdmehedi&show_icons=true&locale=en&layout=compact" alt="jdmehedi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdmehedi&show_icons=true&locale=en" alt="jdmehedi" /></p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JdMehedi)
